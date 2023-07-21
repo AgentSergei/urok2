@@ -1,0 +1,15 @@
+C:\Users\rex\OneDrive\Desktop\urok2\urok2\obj\Debug\net7.0\urok2.csproj.AssemblyReference.cache
+C:\Users\rex\OneDrive\Desktop\urok2\urok2\obj\Debug\net7.0\urok2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rex\OneDrive\Desktop\urok2\urok2\obj\Debug\net7.0\urok2.AssemblyInfoInputs.cache
+C:\Users\rex\OneDrive\Desktop\urok2\urok2\obj\Debug\net7.0\urok2.AssemblyInfo.cs
+C:\Users\rex\OneDrive\Desktop\urok2\urok2\obj\Debug\net7.0\urok2.csproj.CoreCompileInputs.cache
+C:\Users\rex\OneDrive\Desktop\urok2\urok2\bin\Debug\net7.0\urok2.exe
+C:\Users\rex\OneDrive\Desktop\urok2\urok2\bin\Debug\net7.0\urok2.deps.json
+C:\Users\rex\OneDrive\Desktop\urok2\urok2\bin\Debug\net7.0\urok2.runtimeconfig.json
+C:\Users\rex\OneDrive\Desktop\urok2\urok2\bin\Debug\net7.0\urok2.dll
+C:\Users\rex\OneDrive\Desktop\urok2\urok2\bin\Debug\net7.0\urok2.pdb
+C:\Users\rex\OneDrive\Desktop\urok2\urok2\obj\Debug\net7.0\urok2.dll
+C:\Users\rex\OneDrive\Desktop\urok2\urok2\obj\Debug\net7.0\refint\urok2.dll
+C:\Users\rex\OneDrive\Desktop\urok2\urok2\obj\Debug\net7.0\urok2.pdb
+C:\Users\rex\OneDrive\Desktop\urok2\urok2\obj\Debug\net7.0\urok2.genruntimeconfig.cache
+C:\Users\rex\OneDrive\Desktop\urok2\urok2\obj\Debug\net7.0\ref\urok2.dll
